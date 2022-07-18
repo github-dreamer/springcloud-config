@@ -1,2 +1,5 @@
 config:
   info: "main branch,springcloud-config/config-test.yml vesion7.0   test     --zhf"
+other: 
+  info: 
+    test: "123"
